@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueBarucco&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width="418" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBarucco&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBarucco&theme=dark&layout=compact" />
 </a>
 
 ### Projetos
