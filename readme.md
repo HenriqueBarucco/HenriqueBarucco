@@ -14,10 +14,10 @@
 
 ### Detalhes e Linguagens utilizadas
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueBarucco&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=HenriqueBarucco&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBarucco&theme=dark&layout=compact" />
+  <img align="center" width="340" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBarucco&theme=dark&layout=compact" />
 </a>
 
 ### Projetos
