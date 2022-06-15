@@ -21,10 +21,10 @@
 </a>
 
 ### Projetos
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/HenriqueBarucco/DiceRoller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueBarucco&repo=DiceRoller&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/HenriqueBarucco/ChessGame-Java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueBarucco&repo=ChessGame-Java&theme=dark" />
 </a>
 
